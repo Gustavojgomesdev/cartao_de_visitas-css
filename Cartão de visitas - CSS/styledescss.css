@@ -1,0 +1,37 @@
+body{
+	width: 400px;
+	height: 200px;
+	background-image: url(image/fundo.png);
+	background-repeat: no-repeat;
+}
+
+#nome{
+	color: RoyalBlue;
+	font-family: 'Kalam', cursive;
+}
+
+#redes{
+	color: RoyalBlue;
+	font-family: 'Kalam', cursive;
+}
+
+#inst{
+	color: RoyalBlue;
+	font-family: 'Kalam', cursive;
+	list-style-image: url(image/insta.png);
+
+}
+
+#twiter{
+	color:RoyalBlue;
+	font-family: 'Kalam', cursive;
+	list-style-image: url(image/Twitter.png);
+}
+
+#youtube{
+	color:RoyalBlue;
+	font-family: 'Kalam', cursive;
+	list-style-image: url(image/Youtube.png);
+
+}
+
